@@ -4,11 +4,10 @@
 ## 快速开始
 ### 系统依赖
 
-* linux/unix
-* curl
-* wget
-* awk
-* jq
+```shell
+# RHEL/CentOS
+# yum install curl wget awk jq
+```
 
 ### 开始安装
 
