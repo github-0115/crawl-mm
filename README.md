@@ -11,9 +11,10 @@
 
 ### 开始安装
 
-* 默认图片下载位置为: ~/image.baidu.com/images
-
-* curl https://raw.githubusercontent.com/jsbd/crawl-mm/master/crawl.sh | bash
+```shell
+# 默认图片下载位置为: ~/image.baidu.com/images
+# curl https://raw.githubusercontent.com/jsbd/crawl-mm/master/crawl.sh | bash
+```
 
 ### 成果展示
 ![download folder](http://jsbd.github.io/images/crawlmm/0.jpg)
